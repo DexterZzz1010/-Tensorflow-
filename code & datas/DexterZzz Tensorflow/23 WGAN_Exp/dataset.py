@@ -2,7 +2,7 @@ import multiprocessing
 
 import tensorflow as tf
 
-
+# 导入数据集
 def make_anime_dataset(img_paths, batch_size, resize=64, drop_remainder=True, shuffle=True, repeat=1):
     @tf.function
     def _map_fn(img):

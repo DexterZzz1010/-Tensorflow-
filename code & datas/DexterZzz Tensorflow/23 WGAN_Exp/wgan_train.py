@@ -121,7 +121,7 @@ def main():
     is_training = True
 
 
-    img_path = glob.glob(r'C:\Users\Jackie Loong\Downloads\DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2-master\data\faces\*.jpg')
+    img_path = glob.glob(r'C:\Users\DexterZzz\Downloads\faces\*.jpg')
 
     dataset, img_shape, _ = make_anime_dataset(img_path, batch_size)
     print(dataset, img_shape)
