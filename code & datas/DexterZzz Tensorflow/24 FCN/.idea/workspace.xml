@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9641b0cc-315b-4546-a87f-1cb8898f80c4" name="Default Changelist" comment="" />
+    <list default="true" id="9641b0cc-315b-4546-a87f-1cb8898f80c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../23 WGAN_Exp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../23 WGAN_Exp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCN_Exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/FCN_Exp1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.Pre_training">
+  <component name="RunManager" selected="Python.FCN_Exp1">
     <configuration name="FCN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="24 FCN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,6 +91,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="FCN_Exp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="24 FCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FCN_Exp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Pre_training" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="24 FCN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,8 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pre_training" />
         <item itemvalue="Python.FCN_Exp1" />
+        <item itemvalue="Python.FCN_Exp2" />
+        <item itemvalue="Python.Pre_training" />
         <item itemvalue="Python.FCN" />
       </list>
     </recent_temporary>
@@ -129,6 +170,11 @@
       <workItem from="1668518597505" duration="227000" />
       <workItem from="1668518876585" duration="1990000" />
       <workItem from="1668560743367" duration="9768000" />
+      <workItem from="1668684983207" duration="1198000" />
+      <workItem from="1668686620094" duration="4651000" />
+      <workItem from="1668693629410" duration="3767000" />
+      <workItem from="1668698683024" duration="234000" />
+      <workItem from="1668698997914" duration="2149000" />
     </task>
     <servers />
   </component>
@@ -140,30 +186,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1168" y="126" key="#FCN/0.0.1920.1040@0.0.1920.1040" timestamp="1668517632877" />
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1668606964492">
+    <state x="456" y="26" key="CommitChangelistDialog2" timestamp="1668701357101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668606964492" />
-    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1668606964492">
+    <state x="456" y="26" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1668701357101" />
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1668701124287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668606964492" />
-    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1668606964492">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668701124287" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1668701124287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668606964492" />
-    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1668606964492">
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668701124287" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1668701124287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668606964492" />
-    <state x="1128" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1668519668438">
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668701124287" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1668701124287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1128" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1668519668438" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668701124287" />
+    <state x="1128" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1668691304107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1128" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1668691304107" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/24_FCN$FCN_Exp2.coverage" NAME="FCN_Exp2 Coverage Results" MODIFIED="1668700011300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/24_FCN$Pre_training.coverage" NAME="Pre_training Coverage Results" MODIFIED="1668569792410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../25 Pre-training network" />
     <SUITE FILE_PATH="coverage/24_FCN$FCN.coverage" NAME="FCN Coverage Results" MODIFIED="1668519814612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/24_FCN$FCN_Exp1.coverage" NAME="FCN_Exp1 Coverage Results" MODIFIED="1668520353807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/24_FCN$FCN_Exp1.coverage" NAME="FCN_Exp1 Coverage Results" MODIFIED="1668701124278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
