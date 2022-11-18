@@ -4,7 +4,6 @@
     <list default="true" id="248d6273-01c0-4182-99ce-c2e89de77746" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../24 FCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../24 FCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../24 FCN/FCN_Exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../24 FCN/FCN_Exp1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <updated>1668588237446</updated>
       <workItem from="1668588239133" duration="2032000" />
       <workItem from="1668670056059" duration="2644000" />
-      <workItem from="1668700329605" duration="649000" />
+      <workItem from="1668700329605" duration="1331000" />
     </task>
     <servers />
   </component>
